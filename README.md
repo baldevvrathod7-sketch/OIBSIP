@@ -1,2 +1,2 @@
 # OIBSIP
-internship tasks
+Oasis Infobyte Data Analytics Internship Projects
